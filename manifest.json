@@ -1,0 +1,16 @@
+{
+  "name": "Dislike",
+  "version": "0.1.0",
+  "manifest_version": 2,
+  "description": "A browser extensions that cleans up the mess that Twitter creates in your feed",
+  "homepage_url": "https://github.com/yuvadm/dislike",
+  "content_scripts": [{
+    "matches": [
+      "https://twitter.com/*"
+    ],
+    "js": ["dislike.js"]
+  }],
+  "permissions": [
+    "https://twitter.com/*"
+  ]
+}
