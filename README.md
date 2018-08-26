@@ -1,6 +1,8 @@
 # Dislike
 
-A browser extensions that cleans up the mess that Twitter creates in your feed
+**Likes are not retweets**. Fuck you Twitter.
+
+This browser extensions cleans up the mess that Twitter creates in your feed by hiding liked tweets from people you don't follow.
 
 ## Install
 
